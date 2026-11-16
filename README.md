@@ -1,7 +1,7 @@
 ---
 license: mit
 ---
-# VoxSentinel-Emotion-Base (it has not yet reach my standard but still acceptable)🎭
+# VoxSentinel-Emotion-Base
 
 ### HuggingFace Repo: https://huggingface.co/JesseHuang922/VoxSentinel-Emotion-Base
 
